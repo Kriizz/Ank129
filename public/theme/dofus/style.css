@@ -1,0 +1,16 @@
+body.fr {
+	background: #c6cb4b
+}
+body.fr .img_sm {
+	background-image: url("small.jpg");
+}
+@media (min-width: 1187px) {
+    body.fr {
+    	background: #c6cb4b url("main.jpg") center top no-repeat;
+    }
+}
+@media (min-width: 768px) and (max-width: 1186px) {
+    body.fr .ak-video-home.ak-no-video{
+        background: #c6cb4b url("tablet.jpg") center top no-repeat;
+    }
+ }

@@ -1,0 +1,44 @@
+/****************************************************************************/
+/* MODULES */
+/****************************************************************************/
+.ak-picto-less-white {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  background-position: -287px 0;
+  background-repeat: no-repeat; }
+
+.ak-picto-more-white {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  background-position: -260px 0;
+  background-repeat: no-repeat; }
+
+.ak-picto-help {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  background-position: -116px 2px;
+  background-repeat: no-repeat;
+  cursor: help; }
+  .ak-picto-help.ak-orange {
+    background-position: -116px -25px; }
+
+.ak-icon-big.ak-filter
+,
+.ak-icon-med.ak-filter {
+  background-image: url("../img/common/sprite.png");
+  background-repeat: no-repeat; }
+
+.ak-icon-big {
+  background-size: 65px auto; }
+
+.ak-icon-big.ak-filter {
+  background-position: 0 -10px; }
+
+.ak-icon-med {
+  background-size: 46px auto; }
+
+.ak-icon-med.ak-filter {
+  background-position: 0 -7px; }
